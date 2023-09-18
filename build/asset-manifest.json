@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandbox-deploy/static/css/main.fc5c2c69.css",
+    "main.js": "/sandbox-deploy/static/js/main.e881ab88.js",
+    "index.html": "/sandbox-deploy/index.html",
+    "main.fc5c2c69.css.map": "/sandbox-deploy/static/css/main.fc5c2c69.css.map",
+    "main.e881ab88.js.map": "/sandbox-deploy/static/js/main.e881ab88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.e881ab88.js"
+  ]
+}
